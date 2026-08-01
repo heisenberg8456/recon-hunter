@@ -22,7 +22,7 @@ Bug bounty edition with multiple data sources and intelligent analysis.
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOURUSERNAME/recon-hunter.git
+git clone https://github.com/heisenberg8456/recon-hunter.git
 cd recon-hunter
 pip install -r requirements.txt
 ```
